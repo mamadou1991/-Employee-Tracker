@@ -143,7 +143,7 @@ const employee = ()=> {
                 if (err) throw err;
                 console.table(res);
             });
-            init();
+            start();
         })
 }
 
@@ -310,7 +310,7 @@ const addRole = () => {
 }
 
 
-// // Call updateRole(); to update employee role
+// Call updateRole(); to update employee role
 
 const updateRole = ()=> {
     inquirer
@@ -335,7 +335,7 @@ const updateRole = ()=> {
 }
 
 
-// //Call updateManager(); to update employee manager
+//Call updateManager(); to update employee manager
 
 const updateManager = ()=> {
     inquirer

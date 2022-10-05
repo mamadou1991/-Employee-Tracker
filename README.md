@@ -12,6 +12,7 @@
   # Installation
   The following necessary dependencies must be installed to run the application properly: mysql and inquierer
   # Usage
+  https://drive.google.com/file/d/1Nr_p-G2adyxN8WZLujTuzZTH05ZSJh98/view
   In order to use this app, use MySQL Workbench. Run the app in the terminal and answer the prompted questions. Add your password to the index.js file.
   # License
   This project is licensed under no license. 
